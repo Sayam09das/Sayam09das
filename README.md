@@ -1,3 +1,5 @@
+<img src="banner.webp" alt="Github Banner" width="100%" />
+
 # 💫 About Me:
 🔭 I’m currently working on LMS Website<br>👯 I’m looking to collaborate on Full Stack<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Codes
 
