@@ -169,7 +169,7 @@ This is the part that makes the profile feel different: not just a list of tools
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayam_Das-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayam09das)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sayamdas9124@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-a78bfa?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-a78bfa?style=flat-square&logo=vercel&logoColor=white)](https://sayam-das.vercel.app/)
 [![Twitter / X](https://img.shields.io/badge/X-@Sayam09das-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Sayam09das)
 
 </div>
