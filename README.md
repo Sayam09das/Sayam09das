@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Sayam Das banner"/>
+<img src="./banner.svg" width="100%" alt="Sayam Das banner"/>
 
 <br/>
 
@@ -126,7 +126,11 @@ open_to: Collaborations · Open Source · Roles & Internships
 An animated snake that "eats" your contribution graph, regenerated automatically by GitHub Actions.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" alt="snake animation" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" alt="snake animation" width="90%" />
+</picture>
 </div>
 
 <details>
