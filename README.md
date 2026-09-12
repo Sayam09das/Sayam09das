@@ -104,43 +104,29 @@ open_to: Collaborations · Open Source · Roles & Internships
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sayam09das&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9CBD6" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayam09das&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=C9CBD6" width="35%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayam09das&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayam09das&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayam09das&theme=radical" width="32%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Sayam09das&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=22D3EE&fire=8B5CF6" width="65%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayam09das&theme=react-dark&bg_color=0d1117&color=22D3EE&line=A78BFA&point=ffffff&hide_border=true" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayam09das&theme=radical" width="96%" />
 
 </div>
 
-> If any stats card above shows "loading" or a broken image, it's the free Vercel-hosted generator being asleep or rate-limited — refresh in a minute, or fork the generator to self-host it.
+
 
 <br/>
 
-## &#128013; Contribution Snake
-
-An animated snake that "eats" your contribution graph, regenerated automatically by GitHub Actions.
+## &#127993; Snake Contribution Graph
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" alt="snake animation" width="90%" />
+  <img src="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" width="95%" alt="Snake Contribution Graph" />
 </picture>
 </div>
-
-<details>
-<summary>How to enable this (one-time setup)</summary>
-
-1. Keep the included <code>.github/workflows/snake.yml</code> in your profile repo (<code>Sayam09das/Sayam09das</code>).
-2. Push it to <code>main</code> — GitHub Actions will build an <code>output</code> branch containing the generated SVGs.
-3. The image above already points at that branch, so once the action runs once it will render automatically and refresh every 6 hours.
-
-</details>
 
 <br/>
 
