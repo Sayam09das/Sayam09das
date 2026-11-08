@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=I+design+precise+systems+that+scale.;I+ship+full-stack+products+%2B+ML+pipelines.;I+obsess+over+metrics+and+operational+readiness." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=I+design+precise+systems+that+scale" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 ## &#9889; About Me
 
-A Full-Stack Engineer & AI/ML practitioner based in India. I build production-grade web platforms, data pipelines, and machine-learning systems that are observable, testable, and designed for real users.
+A Full-Stack Engineer & AI/ML practitioner based in India. I build production-grade web platforms, data pipelines, and machine-learning systems that are observable, testable, and designed for real-world impact.
 
 ```yaml
 role: Full-Stack Developer & AI/ML Engineer
@@ -52,7 +52,7 @@ open_to: Collaborations · Open Source · Roles & Internships
 │ Testable       → automated tests guard behaviour and contracts       │
 │ Incremental    → ship fast, keep every step operable                 │
 │ Maintainable   → clarity and convention over cleverness               │
-└─────────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -114,19 +114,13 @@ open_to: Collaborations · Open Source · Roles & Internships
 
 </div>
 
-
-
 <br/>
 
-## &#127993; Snake Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/snake-dark.svg" width="95%" alt="Snake Contribution Graph" />
-</picture>
-</div>
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/Sayam09das/Sayam09das/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+  </a>
+</p>
 
 <br/>
 
