@@ -104,13 +104,8 @@ open_to: Collaborations · Open Source · Roles & Internships
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayam09das&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayam09das&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayam09das&theme=radical" width="32%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayam09das&theme=radical" width="96%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sayam09das&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayam09das&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
 
 </div>
 
