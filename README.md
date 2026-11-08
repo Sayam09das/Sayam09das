@@ -103,10 +103,8 @@ open_to: Collaborations · Open Source · Roles & Internships
 ## &#128202; GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sayam09das&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sayam09das&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sayam09das&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sayam09das&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
 </div>
 
 <br/>
