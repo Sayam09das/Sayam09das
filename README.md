@@ -103,8 +103,7 @@ open_to: Collaborations · Open Source · Roles & Internships
 ## &#128202; GitHub Stats
 
 <div align="center">
- 
-Ï   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayam09das&theme=radical" width="48%" alt="GitHub stats" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayam09das&theme=radical" width="48%" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayam09das&theme=radical" width="48%" alt="Most-used languages" />
 </div>
 
